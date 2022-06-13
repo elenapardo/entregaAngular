@@ -1,0 +1,48 @@
+h1, h2, h3, h4 {
+
+}
+div {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+
+}
+
+
+.rainbow-button{
+  width: 15%;
+  background-color: grey;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 8px;
+
+}
+
+
+.button-coleccion{
+  width: 33%;
+  background-color: grey;
+  border: none;
+  border-radius: 12px;
+  color: white;
+  padding: 15px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 8px;
+
+}
+.botones{
+  display: block;
+}
+
+.informacion{
+  margin: 2em;
+}
